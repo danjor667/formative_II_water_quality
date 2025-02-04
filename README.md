@@ -93,7 +93,7 @@ This model incorporates advanced regularization techniques like **Dropout**, **B
 This model opts for multiple hidden layers with **Dropouts** and **Batch Normalization**. It uses the RMSProp optimizer and focuses on balancing the learning rate to reduce overfitting.
 
 **Key Details**:
-- Layers: 5 Hidden Layers
+- Layers: 6 Hidden Layers
 - Activation Functions: ReLU for hidden layers, Sigmoid for output.
 - Optimizer: **RMSProp**.
 
@@ -127,8 +127,8 @@ A variety of visualizations help evaluate model performance across different met
   - Train Accuracy: XX%
   - Test Accuracy: XX%
 - **Jamillah Ssozi's Model**:
-  - Train Accuracy: XX%
-  - Test Accuracy: XX%
+  - Train Accuracy: 69.1%
+  - Test Accuracy: 68.3%
 - **Anissa's Model**: 
   - Train Accuracy: XX%
   - Test Accuracy: XX%
