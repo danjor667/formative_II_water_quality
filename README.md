@@ -99,6 +99,8 @@ This model opts for multiple hidden layers with **Dropouts** and **Batch Normali
 
 ![Jamillah's Model Training Results](path-to-image.png) *(Add you image Jamillah, take screenshotes and add it in the image directory)*
 
+![Training and Validation Accuracy Curve](images/Jamillah_Accuracy.png) 
+![Training and Validation Loss](images/Jamillah_Loss.png)
 ---
 
 ### **Additional Models**
