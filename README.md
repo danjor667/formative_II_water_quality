@@ -101,6 +101,15 @@ This model opts for multiple hidden layers with **Dropouts** and **Batch Normali
 
 ![Training and Validation Accuracy Curve](images/Jamillah_Accuracy.png) 
 ![Training and Validation Loss](images/Jamillah_Loss.png)
+
+### **Anissa's Model**
+This model uses L2 regularization with two hidden layers to improve accuracy and robustness.
+
+Key Details:
+
+Layers: 3 Hidden Layers
+Activation Functions: ReLU for hidden layers, Sigmoid for output.
+Optimizer: Stochastic Gradient Descent (SGD).
 ---
 
 ### **Additional Models**
@@ -132,8 +141,8 @@ A variety of visualizations help evaluate model performance across different met
   - Train Accuracy: 69.1%
   - Test Accuracy: 68.3%
 - **Anissa's Model**: 
-  - Train Accuracy: XX%
-  - Test Accuracy: XX%
+  - Train Accuracy: 66%
+  - Test Accuracy: 71%
 
 
 ---
@@ -142,6 +151,7 @@ A variety of visualizations help evaluate model performance across different met
 - **Model Performance**:
   - Jordan's model with [Adam optimizer] showed slightly better generalization but required significant early stopping.
   - Jamillah's model emphasized regularization and performed better in terms of validation dataset metrics.
+
 
 **Future Work Suggestions**:
 - Hyperparameter tuning for more efficiency.
@@ -171,6 +181,6 @@ A variety of visualizations help evaluate model performance across different met
 ## **Contributors**
 - **Jordan Nguepi**: Model Developer
 - **Jamillah Ssozi**: Model Developer
-- **Anissa OUEDRAOGO**: hey Anissa don't forget to define and train your model
+- **Anissa OUEDRAOGO**: Model Developer
 
 ---
