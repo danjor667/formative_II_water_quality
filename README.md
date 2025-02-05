@@ -126,8 +126,8 @@ A variety of visualizations help evaluate model performance across different met
 
 **Metrics for Models**:
 - **Jordan Nguepi's Model**:
-  - Train Accuracy: XX%
-  - Test Accuracy: XX%
+  - Train Accuracy: 69%
+  - Test Accuracy: 68%
 - **Jamillah Ssozi's Model**:
   - Train Accuracy: 69.1%
   - Test Accuracy: 68.3%
